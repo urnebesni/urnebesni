@@ -9,29 +9,15 @@
 
 ### Connect with me:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/urnebini#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/urnebini#gh-dark-mode-only)
+[![website](https://user-images.githubusercontent.com/47198717/167015318-a9e71f9b-467f-4e60-84bf-2fe5f4c26132.svg)](https://twitter.com/urnebini#gh-light-mode-only)
+[![website](https://user-images.githubusercontent.com/47198717/167015314-6be9ac00-83db-4290-b376-296f288db620.svg)](https://twitter.com/urnebini#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/mihael-brle%C4%8Di%C4%87-8547981b9#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/mihael-brle%C4%8Di%C4%87-8547981b9/#gh-dark-mode-only)
+[![website](https://user-images.githubusercontent.com/47198717/167015145-873d434c-0d5e-4a47-ab43-f71f0aca4f6b.svg)](https://www.linkedin.com/in/mihael-brle%C4%8Di%C4%87-8547981b9#gh-light-mode-only)
+[![website](https://user-images.githubusercontent.com/47198717/167015134-e193494b-1d4a-4b27-a639-9de8abe77314.svg)](https://www.linkedin.com/in/mihael-brle%C4%8Di%C4%87-8547981b9/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/mihael_brlecic#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/mihael_brlecic#gh-dark-mode-only)
+[![website](https://user-images.githubusercontent.com/47198717/167015000-cc213795-258a-474c-967f-467fbb6562bc.svg)](https://www.instagram.com/mihael_brlecic#gh-light-mode-only)
+[![website](https://user-images.githubusercontent.com/47198717/167014973-61755cac-0bae-48f0-890e-665ebd9a3615.svg)](https://www.instagram.com/mihael_brlecic#gh-dark-mode-only)
 
-[![website](https://user-images.githubusercontent.com/47198717/167014026-e974f02d-bebf-44df-99f5-4b738474607c.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 
 
 
