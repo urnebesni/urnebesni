@@ -1,6 +1,6 @@
 # URNEBESNI 
 
-My name is Mihael Brlečić, I am 21 and I am an informatics student mostly interested in programming. Currently working on some cool projects.
+My name is Mihael Brlečić, I am an informatics student mostly interested in programming. Currently working on some cool projects.
 
 ## ★ FOI STUDENT ★
 - Gamer ✔
