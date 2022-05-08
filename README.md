@@ -20,7 +20,7 @@ My name is Mihael Brlečić, I am an informatics student mostly interested in pr
 [![website](https://user-images.githubusercontent.com/47198717/167015000-cc213795-258a-474c-967f-467fbb6562bc.svg)](https://www.instagram.com/mihael_brlecic#gh-light-mode-only)
 [![website](https://user-images.githubusercontent.com/47198717/167014973-61755cac-0bae-48f0-890e-665ebd9a3615.svg)](https://www.instagram.com/mihael_brlecic#gh-dark-mode-only)
 
-<img align="left" alt="GIF" src="https://user-images.githubusercontent.com/47198717/167301263-24a58c0c-27aa-4607-b196-b3c35dc9140e.gif" width="300" height="300" />
+<img align="center" alt="GIF" src="https://user-images.githubusercontent.com/47198717/167301263-24a58c0c-27aa-4607-b196-b3c35dc9140e.gif" width="300" height="300" />
 
 
 
