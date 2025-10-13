@@ -8,7 +8,7 @@ I am interested in web, game, and app development. I think crypto and AI are coo
 
 ### Connect with me:
 
-[![website](<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/a72c2116-ad2f-4e47-bd58-7fe33a360501" />
+[![website](https://www.flaticon.com/free-icon/twitter_733579?term=twitter&page=1&position=1&origin=search&related_id=733579
 )](https://twitter.com/urnebini#gh-light-mode-only)
 [![website](<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/3a5c5220-6c61-40aa-a368-752383dab879" />
 )](https://twitter.com/urnebini#gh-dark-mode-only)
