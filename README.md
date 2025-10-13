@@ -26,6 +26,7 @@ I am interested in web, game, and app development. I think crypto and AI are coo
 
 </p>
 
+* I'm currently learning JS and game dev. 
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/47198717/167301263-24a58c0c-27aa-4607-b196-b3c35dc9140e.gif" width="300" height="300" />
 
