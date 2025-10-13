@@ -16,12 +16,12 @@ I am interested in web, game, and app development. I think crypto and AI are coo
   <a href="https://twitter.com/urnebini"  >
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" width="28" height="28" alt="Twitter" style="vertical-align:middle; margin-right:8px"/>
   </a>
-  &nbsp;&nbsp;
+ 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/mihael-brlečić-8547981b9" >
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28" height="28" alt="LinkedIn" style="vertical-align:middle; margin-right:8px"/>
   </a>
-  &nbsp;&nbsp;
+  
   <!-- Instagram -->
   <a href="https://www.instagram.com/mihael_brlecic" >
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="28" height="28" alt="Instagram" style="vertical-align:middle; margin-right:8px"/>
