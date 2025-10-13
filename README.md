@@ -9,21 +9,17 @@ I am interested in web, game, and app development. I think crypto and AI are coo
 ### Connect with me:
 
 <p align="left">
-  <!-- Stari Twitter logo (plava ptica) -->
   <a href="https://twitter.com/urnebini" target="_blank" rel="noopener">
-    <img src="https://upload.wikimedia.org/wikipedia/en/9/9f/Twitter_bird_logo_2012.svg" width="28" height="28" alt="Twitter" style="vertical-align:middle"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" width="28" height="28" alt="Twitter" style="vertical-align:middle; margin-right:8px"/>
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/mihael-brlečić-8547981b9" target="_blank" rel="noopener">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28" height="28" alt="LinkedIn" style="vertical-align:middle"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28" height="28" alt="LinkedIn" style="vertical-align:middle; margin-right:8px"/>
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.instagram.com/mihael_brlecic" target="_blank" rel="noopener">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="28" height="28" alt="Instagram" style="vertical-align:middle"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="28" height="28" alt="Instagram" style="vertical-align:middle; margin-right:8px"/>
   </a>
-  &nbsp;&nbsp;
   <a href="https://github.com/tvojusername" target="_blank" rel="noopener">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28" height="28" alt="GitHub" style="vertical-align:middle"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28" height="28" alt="GitHub" style="vertical-align:middle; margin-right:8px"/>
   </a>
 </p>
 
