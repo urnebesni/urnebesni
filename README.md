@@ -8,14 +8,20 @@ I am interested in web, game, and app development. I think crypto and AI are coo
 
 ### Connect with me:
 
-[![website](https://user-images.githubusercontent.com/47198717/167015318-a9e71f9b-467f-4e60-84bf-2fe5f4c26132.svg)](https://twitter.com/urnebini#gh-light-mode-only)
-[![website](https://user-images.githubusercontent.com/47198717/167015314-6be9ac00-83db-4290-b376-296f288db620.svg)](https://twitter.com/urnebini#gh-dark-mode-only)
+[![website](<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/a72c2116-ad2f-4e47-bd58-7fe33a360501" />
+)](https://twitter.com/urnebini#gh-light-mode-only)
+[![website](<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/3a5c5220-6c61-40aa-a368-752383dab879" />
+)](https://twitter.com/urnebini#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](https://user-images.githubusercontent.com/47198717/167015145-873d434c-0d5e-4a47-ab43-f71f0aca4f6b.svg)](https://www.linkedin.com/in/mihael-brle%C4%8Di%C4%87-8547981b9#gh-light-mode-only)
-[![website](https://user-images.githubusercontent.com/47198717/167015134-e193494b-1d4a-4b27-a639-9de8abe77314.svg)](https://www.linkedin.com/in/mihael-brle%C4%8Di%C4%87-8547981b9/#gh-dark-mode-only)
+[![website](<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/4190151f-36d1-458e-80c4-b06036ed10d2" />
+)](https://www.linkedin.com/in/mihael-brle%C4%8Di%C4%87-8547981b9#gh-light-mode-only)
+[![website](<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/76f60080-9944-44f3-860a-d0aa2a70b5e2" />
+)](https://www.linkedin.com/in/mihael-brle%C4%8Di%C4%87-8547981b9/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](https://user-images.githubusercontent.com/47198717/167015000-cc213795-258a-474c-967f-467fbb6562bc.svg)](https://www.instagram.com/mihael_brlecic#gh-light-mode-only)
-[![website](https://user-images.githubusercontent.com/47198717/167014973-61755cac-0bae-48f0-890e-665ebd9a3615.svg)](https://www.instagram.com/mihael_brlecic#gh-dark-mode-only)
+[![website](<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/9513e10b-f53b-4591-a4dd-9b8a42c150a8" />
+)](https://www.instagram.com/mihael_brlecic#gh-light-mode-only)
+[![website](<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/fa6089b1-960c-422a-b87b-713409742f89" />
+)](https://www.instagram.com/mihael_brlecic#gh-dark-mode-only)
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/47198717/167301263-24a58c0c-27aa-4607-b196-b3c35dc9140e.gif" width="300" height="300" />
 
