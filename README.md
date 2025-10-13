@@ -1,11 +1,8 @@
 # URNEBESNI 
 
-My name is Mihael Brlečić, I am an informatics student mostly interested in programming. Currently working on some cool projects.
+My name is Mihael Brlečić, and I am a programmer from Croatia. Currently working on some cool projects.
 
-## ★ FOI STUDENT ★
-- Gamer ✔
-- Programmer ✔
-- Ez life ✔
+I am interested in web, game, and app development. I think crypto and AI are cool too.
 
 “Some people say, How can you live without knowing? I do not know what they mean. I always live without knowing. That is easy. How you get to know is what I want to know.” - Richard Feynman 🤷
 
