@@ -13,7 +13,7 @@ I am interested in web, game, and app development. I think crypto and AI are coo
 
 <p align="left">
   <!--Twitter-->
-  <a href="https://twitter.com/urnebini" target="_blank" rel="noopener">
+  <a href="https://twitter.com/urnebini"  >
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" width="28" height="28" alt="Twitter" style="vertical-align:middle; margin-right:8px"/>
   </a>
   &nbsp;&nbsp;
