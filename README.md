@@ -12,15 +12,15 @@ I am interested in web, game, and app development. I think crypto and AI are coo
   <a href="https://twitter.com/urnebini">
     <img src="https://simpleicons.vercel.app/twitter/1DA1F2" width="30" alt="Twitter"/>
   </a>
-  &nbsp;&nbsp;
+  
   <a href="https://www.linkedin.com/in/mihael-brlečić-8547981b9">
     <img src="https://simpleicons.vercel.app/linkedin/0A66C2" width="30" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;
+  
   <a href="https://www.instagram.com/mihael_brlecic">
     <img src="https://simpleicons.vercel.app/instagram/E4405F" width="30" alt="Instagram"/>
   </a>
-  &nbsp;&nbsp;
+  
   <a href="https://github.com/tvojusername">
     <img src="https://simpleicons.vercel.app/github/181717" width="30" alt="GitHub"/>
   </a>
