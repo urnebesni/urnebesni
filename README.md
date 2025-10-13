@@ -9,20 +9,20 @@ I am interested in web, game, and app development. I think crypto and AI are coo
 ### Connect with me:
 
 <p align="left">
-  <a href="https://twitter.com/urnebini">
-    <img src="https://simpleicons.vercel.app/twitter/1DA1F2" width="30" alt="Twitter"/>
+  <a href="https://twitter.com/urnebini" target="_blank" rel="noopener">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="28" height="28" alt="Twitter" style="vertical-align:middle"/>
   </a>
-  
-  <a href="https://www.linkedin.com/in/mihael-brlečić-8547981b9">
-    <img src="https://simpleicons.vercel.app/linkedin/0A66C2" width="30" alt="LinkedIn"/>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mihael-brlečić-8547981b9" target="_blank" rel="noopener">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28" height="28" alt="LinkedIn" style="vertical-align:middle"/>
   </a>
-  
-  <a href="https://www.instagram.com/mihael_brlecic">
-    <img src="https://simpleicons.vercel.app/instagram/E4405F" width="30" alt="Instagram"/>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/mihael_brlecic" target="_blank" rel="noopener">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="28" height="28" alt="Instagram" style="vertical-align:middle"/>
   </a>
-  
-  <a href="https://github.com/tvojusername">
-    <img src="https://simpleicons.vercel.app/github/181717" width="30" alt="GitHub"/>
+  &nbsp;&nbsp;
+  <a href="https://github.com/tvojusername" target="_blank" rel="noopener">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28" height="28" alt="GitHub" style="vertical-align:middle"/>
   </a>
 </p>
 
