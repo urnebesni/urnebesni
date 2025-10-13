@@ -10,19 +10,19 @@ I am interested in web, game, and app development. I think crypto and AI are coo
 
 <p align="left">
   <a href="https://twitter.com/urnebini">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitter.svg" width="30" height="30" alt="Twitter"/>
+    <img src="https://simpleicons.vercel.app/twitter/1DA1F2" width="30" alt="Twitter"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/mihael-brlečić-8547981b9">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="30" height="30" alt="LinkedIn"/>
+    <img src="https://simpleicons.vercel.app/linkedin/0A66C2" width="30" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/mihael_brlecic">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="30" height="30" alt="Instagram"/>
+    <img src="https://simpleicons.vercel.app/instagram/E4405F" width="30" alt="Instagram"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/tvojusername">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="30" height="30" alt="GitHub"/>
+    <img src="https://simpleicons.vercel.app/github/181717" width="30" alt="GitHub"/>
   </a>
 </p>
 
