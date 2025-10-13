@@ -6,6 +6,8 @@ I am interested in web, game, and app development. I think crypto and AI are coo
 
 “Some people say, How can you live without knowing? I do not know what they mean. I always live without knowing. That is easy. How you get to know is what I want to know.” - Richard Feynman 🤷
 
+* I'm currently learning JS and game dev. 
+
 ### Connect with me:
 
 <p align="left">
@@ -26,7 +28,7 @@ I am interested in web, game, and app development. I think crypto and AI are coo
 
 </p>
 
-* I'm currently learning JS and game dev. 
+
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/47198717/167301263-24a58c0c-27aa-4607-b196-b3c35dc9140e.gif" width="300" height="300" />
 
