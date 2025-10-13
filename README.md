@@ -9,8 +9,9 @@ I am interested in web, game, and app development. I think crypto and AI are coo
 ### Connect with me:
 
 <p align="left">
+  <!-- Stari Twitter logo (plava ptica) -->
   <a href="https://twitter.com/urnebini" target="_blank" rel="noopener">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="28" height="28" alt="Twitter" style="vertical-align:middle"/>
+    <img src="https://upload.wikimedia.org/wikipedia/en/9/9f/Twitter_bird_logo_2012.svg" width="28" height="28" alt="Twitter" style="vertical-align:middle"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/mihael-brlečić-8547981b9" target="_blank" rel="noopener">
