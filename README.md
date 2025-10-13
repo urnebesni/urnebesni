@@ -8,7 +8,8 @@ I am interested in web, game, and app development. I think crypto and AI are coo
 
 ### Connect with me:
 
-[![website](https://www.flaticon.com/free-icon/twitter_733579?term=twitter&page=1&position=1&origin=search&related_id=733579
+[![website](<img width="2491" height="2050" alt="Logo_of_Twitter svg" src="https://github.com/user-attachments/assets/5567b933-0ea2-45b4-8277-e0bca18f946d" />
+
 )](https://twitter.com/urnebini#gh-light-mode-only)
 [![website](<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/3a5c5220-6c61-40aa-a368-752383dab879" />
 )](https://twitter.com/urnebini#gh-dark-mode-only)
@@ -22,6 +23,7 @@ I am interested in web, game, and app development. I think crypto and AI are coo
 )](https://www.instagram.com/mihael_brlecic#gh-light-mode-only)
 [![website](<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/fa6089b1-960c-422a-b87b-713409742f89" />
 )](https://www.instagram.com/mihael_brlecic#gh-dark-mode-only)
+
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/47198717/167301263-24a58c0c-27aa-4607-b196-b3c35dc9140e.gif" width="300" height="300" />
 
