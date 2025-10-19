@@ -6,7 +6,7 @@ I am interested in web, game, and app development. I think crypto and AI are coo
 
 “Some people say, How can you live without knowing? I do not know what they mean. I always live without knowing. That is easy. How you get to know is what I want to know.” - Richard Feynman 🤷
 
-* My blog: urnebesni.github.io
+* My blog: <a> urnebesni.github.io </a>
 * I'm currently learning JS and game dev.
 * Fun fact: That is not me in the picture; that is a random guy presenting how I am probably feeling right now. 
 
