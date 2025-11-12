@@ -1,4 +1,4 @@
-# URNEBESNI 
+# Hello and welcome to my profile!  
 
 My name is Mihael Brlečić, and I am a programmer from Croatia. Currently working on some cool projects.
 
