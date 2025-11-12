@@ -27,7 +27,7 @@ I am interested in web, game, and app development. I think crypto and AI are coo
   <a href="https://www.instagram.com/mihael_brlecic" target="_blank" rel="noopener">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="28" height="28" alt="Instagram" style="vertical-align:middle; margin-right:8px"/>
   </a>
-
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/47198717/167301263-24a58c0c-27aa-4607-b196-b3c35dc9140e.gif" width="300" height="300" />
 </p>
 
 
