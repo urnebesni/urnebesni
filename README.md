@@ -8,8 +8,10 @@ I am interested in web, game, and app development. I think crypto and AI are coo
 
 * My blog: <a href="https://urnebesni.github.io/" target="_blank" title="urnebesni.github.io"> urnebesni.github.io </a>
 * I'm currently learning JS and game dev.
-* Fun fact: That is not me in the picture; that is a random guy presenting how I am probably feeling right now. 
+* Fun fact: That is not me in the picture; that is a random guy presenting how I am probably feeling right now.
+  
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/47198717/167301263-24a58c0c-27aa-4607-b196-b3c35dc9140e.gif" width="300" height="300" />
+
 ### Connect with me:
 
 <p align="left">
