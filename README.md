@@ -11,7 +11,7 @@ I like building small projects and figuring out how systems work. 👀
 * My blog: <a href="https://urnebesni.github.io/" target="_blank" title="urnebesni.github.io">urnebesni.github.io</a>
 <!--Fun fact: There are more than 180 million GitHub profiles, and you are on this profile right now.-->
 
-### Connect with me:
+### Find me here:
 
 <p align="left">
   <!--Twitter-->
