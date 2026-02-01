@@ -1,8 +1,8 @@
-# Hello and welcome to my profile!  
+# Hello 👋
 
-I'm Mihael, based in Croatia.
+I'm Mihael Brlečić, based in Croatia. 🇭🇷
 
-I like building small projects and figuring out how systems behave.
+I like building small projects and figuring out how systems work. 👀
 
 “Some people say, How can you live without knowing? I do not know what they mean. I always live without knowing. That is easy. How you get to know is what I want to know.” - Richard Feynman 🤷
 
