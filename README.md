@@ -1,13 +1,15 @@
 # Hello and welcome to my profile!  
 
-My name is Mihael Brlečić, and I am from Croatia. 
+I'm Mihael, based in Croatia.
+
+I like building small projects and figuring out how systems behave.
 
 “Some people say, How can you live without knowing? I do not know what they mean. I always live without knowing. That is easy. How you get to know is what I want to know.” - Richard Feynman 🤷
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/47198717/167301263-24a58c0c-27aa-4607-b196-b3c35dc9140e.gif" width="300" height="300" />
+<!--<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/47198717/167301263-24a58c0c-27aa-4607-b196-b3c35dc9140e.gif" width="300" height="300" />-->
 
 * My blog: <a href="https://urnebesni.github.io/" target="_blank" title="urnebesni.github.io">urnebesni.github.io</a>  
-* Fun fact: There are more than 180 million GitHub profiles, and you are on this profile right now.
+<!--Fun fact: There are more than 180 million GitHub profiles, and you are on this profile right now.-->
 
 ### Connect with me:
 
