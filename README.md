@@ -9,7 +9,6 @@ I like building small projects and figuring out how systems work. 👀
 <!--<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/47198717/167301263-24a58c0c-27aa-4607-b196-b3c35dc9140e.gif" width="300" height="300" />-->
 
 * My blog: <a href="https://urnebesni.github.io/" target="_blank" title="urnebesni.github.io">urnebesni.github.io</a>
-* How to reach me? mihael.brlecic@gmail.com 
 <!--Fun fact: There are more than 180 million GitHub profiles, and you are on this profile right now.-->
 
 ### Connect with me:
