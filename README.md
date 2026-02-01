@@ -1,6 +1,6 @@
 # Hello 👋
 
-I'm Mihael Brlečić, based in Croatia. 🇭🇷
+I'm Mihael Brlečić, based in Croatia. 
 
 I like building small projects and figuring out how systems work. 👀
 
